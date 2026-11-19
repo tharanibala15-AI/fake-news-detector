@@ -1,0 +1,5 @@
+# Optional: BERT + LSTM training and SHAP explanations (large downloads)
+# For a GPU build of PyTorch see https://pytorch.org/get-started/locally/
+torch
+transformers
+shap

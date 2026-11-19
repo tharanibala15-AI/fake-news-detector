@@ -1,0 +1,11 @@
+# Core (TF-IDF models, explanations, web app, notebook) - lightweight
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+joblib
+lime
+streamlit
+pytest
+ipykernel
